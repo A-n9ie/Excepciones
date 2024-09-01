@@ -38,7 +38,7 @@ public class Excepciones {
             System.out.println(e.getMessage());
         }
         finally{
-            System.out.println("La contraseña es: " + password + "\n");
+            System.out.println("La contraseña es: " + password + "\n\n");
         }
         System.out.print("Programa terminado");
     }
